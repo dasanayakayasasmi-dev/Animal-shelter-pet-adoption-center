@@ -18,8 +18,7 @@ nav a{
     margin:20px;
     font-size:18px;
 }
-
-     .hero{
+       .hero{
           height:400px;
           background:url("https://images.unsplash.com/photo-1552053831-71594a27632d") center/cover;
           display:flex;
@@ -28,13 +27,6 @@ nav a{
           color:white;
           text-align:center;
        } 
-
-    footer{
-    background:#333;
-    color:white;
-    padding:20px;
-    text-align:center;
-}
     </style>
 </head>
 <body style="background-color: antiquewhite;">
@@ -74,7 +66,7 @@ Join us in giving pets a second chance.</p>
    
  <section>
 <br>
-   <center><h2>🐾Available Pets🐾</h2></center> 
+   <center><h2>Available Pets</h2></center> 
 
      <center>
     <table border="1" cellpadding="15" border color="white">
@@ -119,23 +111,23 @@ Join us in giving pets a second chance.</p>
         <section>
 
      <center>
-        <h2>🐾Breed🐾</h2>
+        <h2>Breed</h2>
      </center>
      <center>
     <section style="display:flex ;">
         <figure>
             <img style="width: 300px; border-radius: 10px;" src="asset\Boxer-dog.webp" alt="">
-            <Center><figcaption>Boxer</figcaption></Center>
+            <Center><button style="border-radius: 10px; background-color: black; color: white;">Boxer</button></Center>
         </figure>
 
         <figure>
             <img style="width: 300px; border-radius: 10px;" src="asset\90e3af6c85713f6cd0fc1758098020e4.jpg" alt="">
-             <Center><figcaption>Sen-Bernad</figcaption></Center>
+            <center><button style="border-radius: 10px; background-color: black; color: white;">Sen-Bernad</button></center>
         </figure>
 
         <figure>
             <img style="width: 300px; border-radius: 10px;" src="asset\Bullmastiff-dog-standing-outdoors.webp" alt="">
-             <Center><figcaption>Bullmastiff</figcaption></Center>
+            <center><button style="border-radius: 10px; background-color: black; color: white;">Bullmastiff</button></center>
         </figure>
 
     </section>
@@ -182,11 +174,11 @@ Join us in giving pets a second chance.</p>
 
 
 
-<center style="background-color: rgb(249, 220, 181) ;" >
+<center style="background-color: bisque;" >
     <br>
-<h2>🐾Why Adopt?🐾</h2>
+<h2>Why Adopt?</h2>
 
-    <p>
+<p>
     <li>❤️ Save a life</li>
     <li>❤️ Support animal rescue </li>
      <li>❤️ Find unconditional love </li>
@@ -196,8 +188,8 @@ Join us in giving pets a second chance.</p>
 </section>
  <hr>
 <footer>
-<center style="background-color: black;"
-<p text=" white">©️2026 Happy Paws Animal Shelter | All Rights Reserved</p>
+<center>
+<p>©️2026 Happy Paws Animal Shelter | All Rights Reserved</p>
  <hr>
  </center>
 </footer>
